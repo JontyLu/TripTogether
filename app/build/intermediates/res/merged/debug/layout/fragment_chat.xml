@@ -1,0 +1,25 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".chatPage.ChatFragment">
+
+    <View
+        android:background="#4B7C8C"
+        android:layout_width="match_parent"
+        android:layout_height="28dp"
+        android:id="@+id/view3" />
+    <ListView
+        android:id="@+id/lv"
+        android:layout_width="match_parent"
+        android:layout_height="570dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:divider="#fff"
+        android:dividerHeight="0dp"
+        android:listSelector="@android:color/transparent"
+        android:layout_below="@+id/view3">
+
+    </ListView>
+
+</RelativeLayout>

@@ -1,0 +1,168 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/personal_UI"
+    tools:context=".usersPage.UserFragment">
+
+
+<RelativeLayout
+    android:id="@+id/r1"
+    android:layout_width="match_parent"
+    android:layout_height="250dp"
+    android:background="#4B7C8C">
+
+    <ImageView
+        android:id="@+id/headPortrait"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:src="@mipmap/qw"
+        android:background="@drawable/circle"
+        android:layout_marginTop="51dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+    <TextView
+        android:id="@+id/personName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="JT"
+        android:textColor="#fff"
+        android:textSize="20dp"
+        android:layout_below="@+id/headPortrait"
+        android:layout_centerHorizontal="true" />
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:collapseColumns="3"
+        android:orientation="horizontal"
+        android:id="@+id/linearLayout"
+        android:layout_below="@+id/userdetails"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="10dp">
+
+            <TextView
+                android:layout_width="30dp"
+                android:layout_height="20dp"
+                android:textSize="10dp"
+                android:text="男"
+                android:gravity="center"
+                android:textColor="#fff"
+                android:background="@drawable/shape"
+                android:layout_marginLeft="70dp"
+                android:id="@+id/sex"
+               />
+
+            <TextView
+                android:id="@+id/age"
+                android:layout_width="30dp"
+                android:layout_height="20dp"
+                android:textSize="10dp"
+                android:text="20岁"
+                android:gravity="center"
+                android:textColor="#fff"
+                android:background="@drawable/shape"
+                android:layout_marginLeft="70dp"/>
+
+            <TextView
+                android:id="@+id/local"
+                android:layout_width="30dp"
+                android:layout_height="20dp"
+                android:textSize="10dp"
+                android:text="广州"
+                android:gravity="center"
+                android:textColor="#fff"
+                android:background="@drawable/shape"
+                android:layout_marginLeft="70dp"
+                android:layout_column="2" />
+        </TableRow>
+
+    </TableLayout>
+
+    <TextView
+        android:id="@+id/userdetails"
+        android:layout_width="400dp"
+        android:layout_height="wrap_content"
+        android:text="爱旅游"
+        android:textColor="#fff"
+        android:gravity="center"
+        android:layout_margin="10dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_below="@+id/personName"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="16dp" />
+
+    <RelativeLayout
+        android:layout_width="120dp"
+        android:layout_height="30dp"
+        android:layout_marginTop="5dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true">
+    <TextView
+        android:layout_width="13dp"
+        android:layout_height="30dp"
+        android:text="/"
+        android:textColor="#fff"
+        android:textSize="16dp"
+        android:id="@+id/textView"
+        android:gravity="center"
+        android:layout_toLeftOf="@+id/register_registration_Button"
+        android:layout_alignBottom="@+id/logIn_LogIn_Button"
+        android:layout_toRightOf="@+id/logIn_LogIn_Button"
+        android:layout_toEndOf="@+id/logIn_LogIn_Button" />
+    <Button
+        android:id="@+id/register_registration_Button"
+        android:layout_width="50dp"
+        android:layout_height="30dp"
+        android:background="#4B7C8C"
+        android:text="注册"
+        android:textColor="#fff"
+        android:gravity="center|left"
+        style="?android:attr/borderlessButtonStyle"
+        android:layout_alignParentTop="true"
+        android:layout_toRightOf="@+id/logIn_LogIn_Button"
+        android:layout_toEndOf="@+id/logIn_LogIn_Button"
+        android:layout_marginLeft="15dp"
+        android:layout_marginStart="15dp" />
+
+    <Button
+        android:id="@+id/logIn_LogIn_Button"
+        android:layout_width="50dp"
+        android:layout_height="30dp"
+        android:background="#4B7C8C"
+        android:text="登陆"
+        android:textColor="#fff"
+        android:gravity="center|right"
+        style="?android:attr/borderlessButtonStyle"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+    </RelativeLayout>
+</RelativeLayout>
+
+<View
+    android:layout_width="match_parent"
+    android:layout_height="8dp"
+    android:background="#f2f2f2"
+    android:layout_below="@+id/r1"
+    android:layout_alignParentLeft="true"
+    android:layout_alignParentStart="true"
+    android:id="@+id/view" />
+
+    <ListView
+        android:id="@+id/user_lv"
+        android:layout_width="match_parent"
+        android:layout_height="330dp"
+        android:layout_below="@+id/r1"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"></ListView>
+
+
+</RelativeLayout>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginLeft="7dp"
+    android:layout_marginRight="7dp">
+
+    <RelativeLayout
+        android:id="@+id/GuiderLeft"
+        android:layout_width="match_parent"
+        android:layout_height="280dp"
+        android:layout_marginLeft="10dp"
+
+        >
+
+        <ImageView
+            android:id="@+id/GuiderImage_left"
+            android:layout_width="300dp"
+            android:layout_height="180dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+             />
+
+        <TextView
+            android:id="@+id/GuiderNameLeft"
+            android:layout_width="80dp"
+            android:layout_height="20dp"
+            android:text="李成婉宁"
+            android:textColor="#000"
+            android:textSize="15dp"
+            android:gravity="left|center"
+
+            android:layout_below="@+id/GuiderImage_left"
+            android:layout_alignLeft="@+id/GuiderImage_left"
+            android:layout_alignStart="@+id/GuiderImage_left" />
+
+        <TextView
+            android:id="@+id/GuiderDetailsLeft"
+            android:layout_width="300dp"
+            android:layout_height="20dp"
+            android:text="#4f4f4f"
+            android:textSize="13dp"
+            android:gravity="left"
+            android:textColor="#0a0a0a"
+            android:layout_below="@+id/GuiderNameLeft"
+            android:layout_alignLeft="@+id/GuiderNameLeft"
+            android:layout_alignStart="@+id/GuiderNameLeft" />
+        <TextView
+            android:id="@+id/GuiderDistanceLeft"
+            android:layout_width="65dp"
+            android:layout_height="20dp"
+            android:text="852025520"
+            android:textSize="8dp"
+            android:gravity="left|center_vertical"
+            android:textColor="#6c6c6c"
+            android:layout_below="@+id/GuiderDetailsLeft"
+            android:layout_alignLeft="@+id/GuiderDetailsLeft"
+            android:layout_alignStart="@+id/GuiderDetailsLeft" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/GuiderRight"
+        android:layout_width="match_parent"
+        android:layout_height="280dp"
+        android:layout_marginRight="10dp"
+
+
+        android:layout_alignParentTop="true">
+    <ImageView
+        android:id="@+id/GuiderImage_right"
+        android:layout_width="300dp"
+        android:layout_height="180dp"
+
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_alignParentRight="true"/>
+
+        <TextView
+            android:id="@+id/GuiderNameRight"
+            android:layout_width="80dp"
+            android:layout_height="20dp"
+            android:text="李成婉宁"
+            android:textColor="#000"
+            android:textSize="15dp"
+            android:gravity="center|right"
+            android:layout_below="@+id/GuiderImage_right"
+            android:layout_alignRight="@+id/GuiderImage_right"
+            android:layout_alignEnd="@+id/GuiderImage_right" />
+        <TextView
+            android:id="@+id/GuiderDetailsRight"
+            android:layout_width="3000dp"
+            android:layout_height="20dp"
+            android:text="f2f2f2"
+            android:textSize="13dp"
+            android:textColor="#0a0a0a"
+            android:gravity="right"
+            android:layout_below="@+id/GuiderNameRight"
+            android:layout_alignRight="@+id/GuiderImage_right"
+            android:layout_alignEnd="@+id/GuiderImage_right" />
+        <TextView
+            android:id="@+id/GuiderDistanceRight"
+            android:layout_width="65dp"
+            android:layout_height="20dp"
+            android:text="f2f2f2"
+            android:textSize="8dp"
+            android:gravity="center_vertical|right"
+            android:textColor="#6c6c6c"
+            android:layout_below="@+id/GuiderDetailsRight"
+            android:layout_alignRight="@+id/GuiderDetailsRight"
+            android:layout_alignEnd="@+id/GuiderDetailsRight" />
+
+    </RelativeLayout>
+
+</RelativeLayout>

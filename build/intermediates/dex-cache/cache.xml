@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\Software\AndroidStudio\project\TripTogether\app\libs\gradle-wrapper.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="92d0b85fb15ec7ca7aa72eaab4d5f7faac9297d1">
+        <dex dex="F:\Software\AndroidStudio\project\TripTogether\app\build\intermediates\pre-dexed\debug\gradle-wrapper_11bc0b9ad791e4ed334d64b53bd38a6baf5fbe65.jar" />
+    </item>
+    <item
+        jar="F:\Software\AndroidStudio\project\TripTogether\app\build\intermediates\exploded-aar\com.github.jd-alexander\LikeButton\0.1.3\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="4341c8e35379f7dd8203e4186ac571d0c39f8db4">
+        <dex dex="F:\Software\AndroidStudio\project\TripTogether\app\build\intermediates\pre-dexed\debug\com.github.jd-alexander-LikeButton-0.1.3_d11a771402fa98a628213b9497f7266290c05d40.jar" />
+    </item>
+    <item
+        jar="F:\Software\AndroidStudio\project\TripTogether\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="F:\Software\AndroidStudio\project\TripTogether\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.0_f912fce15a86f4e08f43fbe8358be95d741b20cb.jar" />
+    </item>
+    <item
+        jar="F:\Software\AndroidStudio\project\TripTogether\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="F:\Software\AndroidStudio\project\TripTogether\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.0_955f3a138e221e2f81c3bd8fb9db50ca1f9023ad.jar" />
+    </item>
+    <item
+        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\cn.bmob.android\bmob-sms\1.0.1\df9db564e2842696a68deca39b0186aebf3dc07c\bmob-sms-1.0.1.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="df9db564e2842696a68deca39b0186aebf3dc07c">
+        <dex dex="F:\Software\AndroidStudio\project\TripTogether\app\build\intermediates\pre-dexed\debug\bmob-sms-1.0.1_c3b7d2a1200611ce5fb457d858465b27be2733e7.jar" />
+    </item>
+    <item
+        jar="F:\Software\AndroidStudio\project\TripTogether\app\build\intermediates\exploded-aar\com.github.florent37\materialviewpager\1.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="e021a1a8f5600d1924bd69cd2b007c8d118d3ea7">
+        <dex dex="F:\Software\AndroidStudio\project\TripTogether\app\build\intermediates\pre-dexed\debug\com.github.florent37-materialviewpager-1.2.0_52f14b68fdb06827704af5d1c5174d3efefe3c5f.jar" />
+    </item>
+    <item
+        jar="F:\Software\AndroidStudio\project\TripTogether\app\build\intermediates\exploded-aar\cn.bmob.android\bmob-sdk\3.5.0\jars\libs\okhttp-3.3.1.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="e7cb33d9f82d3b8521c6594b180f4dd9fc6d49f2">
+        <dex dex="F:\Software\AndroidStudio\project\TripTogether\app\build\intermediates\pre-dexed\debug\okhttp-3.3.1_0b2418c85d84fb1eb9bdf68aa629d94bed24e48b.jar" />
+    </item>
+    <item
+        jar="F:\Software\AndroidStudio\project\TripTogether\app\build\intermediates\exploded-aar\com.github.ksoichiro\android-observablescrollview\1.6.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="d125b199a427e5cc8d4234f7d8673c9a27ef6336">
+        <dex dex="F:\Software\AndroidStudio\project\TripTogether\app\build\intermediates\pre-dexed\debug\com.github.ksoichiro-android-observablescrollview-1.6.0_51e071b8bb431f6d1fa93b4048a96c2d5b8447a0.jar" />
+    </item>
+    <item
+        jar="F:\Software\AndroidStudio\project\TripTogether\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="F:\Software\AndroidStudio\project\TripTogether\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.4.0_8fe2d4b4d44a89911a20de6df5606e043820a42c.jar" />
+    </item>
+    <item
+        jar="F:\Software\AndroidStudio\project\TripTogether\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="F:\Software\AndroidStudio\project\TripTogether\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_089df43799d1ba8ced5907a0b1b9d370b33383d5.jar" />
+    </item>
+    <item
+        jar="F:\Software\AndroidStudio\project\TripTogether\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="82ce13fd19cdfde0e392f03c27edeba8d4333648">
+        <dex dex="F:\Software\AndroidStudio\project\TripTogether\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-23.3.0_fed91cb90055e1d2417349abed33359f4411b4e2.jar" />
+    </item>
+    <item
+        jar="F:\Software\AndroidStudio\project\TripTogether\app\build\intermediates\exploded-aar\cn.bmob.android\bmob-sdk\3.5.0\jars\libs\BmobSDK_3.5.0_20160630.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="8eb5c605a02f792e326c5ac8e4feb2c18dd171ad">
+        <dex dex="F:\Software\AndroidStudio\project\TripTogether\app\build\intermediates\pre-dexed\debug\BmobSDK_3.5.0_20160630_0eeb78d752f5e50c79a63509a4d5e28e27cabc10.jar" />
+    </item>
+    <item
+        jar="F:\Software\AndroidStudio\project\TripTogether\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="F:\Software\AndroidStudio\project\TripTogether\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_293f0154ade57efafbdf531081b34bf8904a5c79.jar" />
+    </item>
+    <item
+        jar="F:\Software\AndroidStudio\project\TripTogether\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="F:\Software\AndroidStudio\project\TripTogether\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_e811a546aaf474c48e58f895d9b511ad3fc0352e.jar" />
+    </item>
+    <item
+        jar="F:\Software\AndroidStudio\project\TripTogether\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="787871951412550519b0222aba3c9df4cea49875">
+        <dex dex="F:\Software\AndroidStudio\project\TripTogether\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.1.1_c2acf3b82c7784a1c0c28b82fc5e0b31c9739dab.jar" />
+    </item>
+    <item
+        jar="F:\Software\AndroidStudio\project\TripTogether\app\build\intermediates\exploded-aar\com.loopeer.library\itemtouchhelperextension\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="c71d09a45b683b7b4b95296239353c8476806de7">
+        <dex dex="F:\Software\AndroidStudio\project\TripTogether\app\build\intermediates\pre-dexed\debug\com.loopeer.library-itemtouchhelperextension-1.0.0_19ae3df66ae7264b7bb2c96efed37b6c5a58d4fa.jar" />
+    </item>
+    <item
+        jar="F:\Software\AndroidStudio\project\TripTogether\app\build\intermediates\exploded-aar\cn.bmob.android\bmob-im\2.0.5\jars\libs\BmobNewIM_2.0.5_20160601.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="b535a2906149ccebadc4b1cab0126130916842ea">
+        <dex dex="F:\Software\AndroidStudio\project\TripTogether\app\build\intermediates\pre-dexed\debug\BmobNewIM_2.0.5_20160601_fd5257e5ed89612088caa9a6e6421a07cf1550ab.jar" />
+    </item>
+    <item
+        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\cn.bmob.android\http-legacy\1.0\5320fd78dd7f154e586970d4f02befc9b58432aa\http-legacy-1.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="5320fd78dd7f154e586970d4f02befc9b58432aa">
+        <dex dex="F:\Software\AndroidStudio\project\TripTogether\app\build\intermediates\pre-dexed\debug\http-legacy-1.0_1fda9d8b118d1861c51d131cf1ec216774980bd6.jar" />
+    </item>
+    <item
+        jar="F:\Software\AndroidStudio\project\TripTogether\app\build\intermediates\exploded-aar\com.ashokvarma.android\bottom-navigation-bar\1.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="f72894374bf136ef52ef3098dd9039ae32e6fec4">
+        <dex dex="F:\Software\AndroidStudio\project\TripTogether\app\build\intermediates\pre-dexed\debug\com.ashokvarma.android-bottom-navigation-bar-1.2.0_cfc0f8164344f0b74b096cffab14b4534b7a0018.jar" />
+    </item>
+    <item
+        jar="F:\Software\AndroidStudio\project\TripTogether\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="F:\Software\AndroidStudio\project\TripTogether\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.0_aa654b01a3025af95e9edf9041ae70344282b31e.jar" />
+    </item>
+    <item
+        jar="F:\Software\AndroidStudio\project\TripTogether\app\build\intermediates\exploded-aar\cn.bmob.android\bmob-sdk\3.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="e47f10299673ab68f24c595f96b18086cc9a8384">
+        <dex dex="F:\Software\AndroidStudio\project\TripTogether\app\build\intermediates\pre-dexed\debug\cn.bmob.android-bmob-sdk-3.5.0_f5590a00162b083538a4c207f1171d8b8741c405.jar" />
+    </item>
+    <item
+        jar="F:\Software\AndroidStudio\project\TripTogether\app\build\intermediates\exploded-aar\cn.bmob.android\bmob-sdk\3.5.0\jars\libs\rxandroid-1.2.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="19beef6debb6a22febc28777464c71bfccbafe3d">
+        <dex dex="F:\Software\AndroidStudio\project\TripTogether\app\build\intermediates\pre-dexed\debug\rxandroid-1.2.0_7346984ac6b404b55be51d3cb0875dba754d8731.jar" />
+    </item>
+    <item
+        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="F:\Software\AndroidStudio\project\TripTogether\app\build\intermediates\pre-dexed\debug\glide-3.7.0_6847dc5645c19615c623fcdef96473b3b9ad1f8e.jar" />
+    </item>
+    <item
+        jar="F:\Software\AndroidStudio\project\TripTogether\app\build\intermediates\exploded-aar\cn.bmob.android\bmob-sdk\3.5.0\jars\libs\okio-1.7.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="bbeca71da43c8f4bc9ceedec002060f53437ad26">
+        <dex dex="F:\Software\AndroidStudio\project\TripTogether\app\build\intermediates\pre-dexed\debug\okio-1.7.0_e277b9d3d5f0fa8cae134a74d249f5e8681b3bae.jar" />
+    </item>
+    <item
+        jar="F:\Software\AndroidStudio\project\TripTogether\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="F:\Software\AndroidStudio\project\TripTogether\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_9aab8dea4292cb9b3667130591a7738343859e52.jar" />
+    </item>
+    <item
+        jar="F:\Software\AndroidStudio\project\TripTogether\app\libs\httpmime-4.1.2.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="ed8b5ee0167cb27dea55851259eb34b609f31df0">
+        <dex dex="F:\Software\AndroidStudio\project\TripTogether\app\build\intermediates\pre-dexed\debug\httpmime-4.1.2_377195e1d2f0cf127b1f778cae1ee0d2b0983304.jar" />
+    </item>
+    <item
+        jar="F:\Software\AndroidStudio\project\TripTogether\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="F:\Software\AndroidStudio\project\TripTogether\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.0_272c45d999623bf988a21d332fc2412da8b3677f.jar" />
+    </item>
+    <item
+        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\cn.bmob.android\bmob-push\0.8\2fe391ed9034cd023de1da05cb8da77e08b46245\bmob-push-0.8.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="2fe391ed9034cd023de1da05cb8da77e08b46245">
+        <dex dex="F:\Software\AndroidStudio\project\TripTogether\app\build\intermediates\pre-dexed\debug\bmob-push-0.8_7f67ce7e38a3c483f7849b0f265273ba55e8da64.jar" />
+    </item>
+    <item
+        jar="F:\Software\AndroidStudio\project\TripTogether\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="F:\Software\AndroidStudio\project\TripTogether\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.0_b6af4067ffec6344acad4a414ca2470199b7e89c.jar" />
+    </item>
+    <item
+        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="F:\Software\AndroidStudio\project\TripTogether\app\build\intermediates\pre-dexed\debug\library-2.4.0_d1d2405b41fac7202b0c13e704d4336128b69953.jar" />
+    </item>
+    <item
+        jar="F:\Software\AndroidStudio\project\TripTogether\app\libs\BaiduLBS_Android.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="5a383ebf5f2004be05a61564268e5d087189034e">
+        <dex dex="F:\Software\AndroidStudio\project\TripTogether\app\build\intermediates\pre-dexed\debug\BaiduLBS_Android_48cde4fd305fe6bcd594b7817b7b2a6d5f828b78.jar" />
+    </item>
+    <item
+        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\com.flaviofaria\kenburnsview\1.0.7\ce4e8bba9e026dd29f8110b2f6bb1fc4ecbdd9b1\kenburnsview-1.0.7.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="ce4e8bba9e026dd29f8110b2f6bb1fc4ecbdd9b1">
+        <dex dex="F:\Software\AndroidStudio\project\TripTogether\app\build\intermediates\pre-dexed\debug\kenburnsview-1.0.7_e9076c7e524ad83338ac3f010d3018253c233fcf.jar" />
+    </item>
+    <item
+        jar="F:\Software\AndroidStudio\project\TripTogether\app\build\intermediates\exploded-aar\cn.bmob.android\bmob-im\2.0.5\jars\libs\androidasync-2.1.6.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="4c88f1359a331cff1ea593267d1f63dca63b364b">
+        <dex dex="F:\Software\AndroidStudio\project\TripTogether\app\build\intermediates\pre-dexed\debug\androidasync-2.1.6_c915e9c1d75fdd6440db15a4a870973b2dbeeb36.jar" />
+    </item>
+    <item
+        jar="F:\Software\AndroidStudio\project\TripTogether\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="F:\Software\AndroidStudio\project\TripTogether\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.0_cf67424d5b299b165083fef8d9138cc8407c2859.jar" />
+    </item>
+    <item
+        jar="F:\Software\AndroidStudio\project\TripTogether\app\build\intermediates\exploded-aar\cn.bmob.android\bmob-sdk\3.5.0\jars\libs\rxjava-1.1.6.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="ac615240b277e7fd3950d7b35f73b733f310cede">
+        <dex dex="F:\Software\AndroidStudio\project\TripTogether\app\build\intermediates\pre-dexed\debug\rxjava-1.1.6_53d827442e4207f3c7c91f898527ce04e77e9a06.jar" />
+    </item>
+    <item
+        jar="F:\Software\AndroidStudio\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="F:\Software\AndroidStudio\project\TripTogether\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.0_a46f85c45e65b5d7c1018f2e022eb8feefbe4a34.jar" />
+    </item>
+    <item
+        jar="F:\Software\AndroidStudio\project\TripTogether\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="F:\Software\AndroidStudio\project\TripTogether\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.0_02f563d13f7f495f9351ad18c801670bdd3a778a.jar" />
+    </item>
+    <item
+        jar="F:\Software\AndroidStudio\project\TripTogether\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="F:\Software\AndroidStudio\project\TripTogether\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.0_8250c507e8a85d0e579aae14e4eaaa26cad40ca5.jar" />
+    </item>
+    <item
+        jar="F:\Software\AndroidStudio\project\TripTogether\app\build\intermediates\exploded-aar\com.jpardogo.materialtabstrip\library\1.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="611c7708cd3df0d7ae99105d4df5af8eb25c4b32">
+        <dex dex="F:\Software\AndroidStudio\project\TripTogether\app\build\intermediates\pre-dexed\debug\com.jpardogo.materialtabstrip-library-1.1.0_92d179462999395df60c83b68a4131f53033f05c.jar" />
+    </item>
+    <item
+        jar="F:\Software\AndroidStudio\project\TripTogether\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="F:\Software\AndroidStudio\project\TripTogether\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_470155ac6591c4cf67ca6eddbf07bfbd59c5ff6d.jar" />
+    </item>
+    <item
+        jar="F:\Software\AndroidStudio\project\TripTogether\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="F:\Software\AndroidStudio\project\TripTogether\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.0_a76f2345ef6880825f5d33c53bed3a787a0e7014.jar" />
+    </item>
+    <item
+        jar="F:\Software\AndroidStudio\project\TripTogether\app\build\intermediates\exploded-aar\cn.bmob.android\bmob-sdk\3.5.0\jars\libs\gson-2.6.2.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="dd625f5e7bba8235782b5dc4244c3fd26953190f">
+        <dex dex="F:\Software\AndroidStudio\project\TripTogether\app\build\intermediates\pre-dexed\debug\gson-2.6.2_6388af224686ee5b4334dbbf8f00909da293fa29.jar" />
+    </item>
+    <item
+        jar="F:\Software\AndroidStudio\project\TripTogether\app\build\intermediates\exploded-aar\cn.bmob.android\bmob-im\2.0.5\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="46b64293efb94feb03e6270d400f95b2664513f6">
+        <dex dex="F:\Software\AndroidStudio\project\TripTogether\app\build\intermediates\pre-dexed\debug\cn.bmob.android-bmob-im-2.0.5_aa83d43e10064b0a26ac21676e42c6d54fa8b1d6.jar" />
+    </item>
+
+</items>

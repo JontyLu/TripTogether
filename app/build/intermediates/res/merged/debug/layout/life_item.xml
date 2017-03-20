@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_margin="20dp">
+    <ImageView
+        android:id="@+id/merchantType1_image"
+        android:layout_width="150dp"
+        android:layout_height="200dp" />
+    <TextView
+        android:layout_below="@id/merchantType1_image"
+        android:id="@+id/merchantType1_service"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="left"
+        android:text="服务项目"
+        android:textSize="12sp"
+        android:textColor="#525e69"/>
+    <TextView
+        android:id="@+id/merchantType1_price"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="left"
+        android:text="180hkd 可议价"
+        android:textSize="10sp"
+        android:textColor="#96a8ba"
+        android:layout_below="@+id/merchantType1_address"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+    <TextView
+        android:id="@+id/merchantType1_address"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="left"
+        android:text="北京路100号"
+        android:textSize="10sp"
+        android:textColor="#96a8ba"
+        android:layout_below="@+id/merchantType1_service"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+</RelativeLayout>

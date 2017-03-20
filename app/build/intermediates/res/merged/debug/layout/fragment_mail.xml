@@ -1,0 +1,21 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".mailPage.MailFragment">
+    <View
+        android:background="#4B7C8C"
+        android:layout_width="match_parent"
+        android:layout_height="28dp"
+        android:id="@+id/view2" />
+    <android.support.v7.widget.RecyclerView
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/recycler_main"
+        android:layout_below="@+id/view2" />
+
+
+
+</RelativeLayout>

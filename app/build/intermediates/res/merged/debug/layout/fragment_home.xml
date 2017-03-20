@@ -1,0 +1,184 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".homePage.HomeFragment"
+    android:orientation="horizontal">
+
+    <RelativeLayout
+        android:background="#4B7C8C"
+        android:id="@+id/city"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:gravity="center"
+        android:paddingLeft="15dp"
+        android:paddingRight="15dp"
+        android:orientation="horizontal">
+        <ImageButton
+            android:id="@+id/LocationButton"
+            android:background="@mipmap/locallation"
+            android:layout_width="25dp"
+            android:layout_height="20dp"
+            android:layout_alignBottom="@+id/CityWeatherSearch"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+        <EditText
+            android:id="@+id/LocationText"
+            android:layout_width="250dp"
+            android:layout_height="35dp"
+            android:background="@null"
+            android:textColor="#fff"
+            android:textSize="15sp"
+            android:textColorHint="#fff"
+            android:gravity="center|left"
+            android:layout_gravity="center"
+            android:singleLine="true"
+            android:focusable="true"
+            android:focusableInTouchMode="true"
+            android:layout_centerVertical="true"
+            android:layout_toEndOf="@+id/LocationButton"
+            android:layout_toRightOf="@+id/LocationButton" />
+        <ImageButton
+            android:id="@+id/CityWeatherSearch"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:background="@drawable/search"
+            android:layout_gravity="center_vertical|right"
+            android:layout_centerVertical="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true" />
+
+    </RelativeLayout>
+    <ScrollView
+        android:layout_below="@id/city"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:overScrollMode="never"
+        android:scrollbars="none">
+    <RelativeLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="500dp"
+        android:id="@+id/relativeLayout">
+
+        <RelativeLayout
+            android:id="@+id/header"
+            android:background="#4B7C8C"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_alignParentTop="true"
+            >
+
+            <ImageView
+                android:id="@+id/cityImage"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@mipmap/guangzhou"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true" />
+
+            <TextView
+                android:id="@+id/cityName"
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:text="dasd"
+                android:textColor="#fff"
+                android:textSize="30dp"
+                android:gravity="center"
+                android:layout_centerVertical="true"
+                android:layout_centerHorizontal="true" />
+
+
+        </RelativeLayout>
+
+        <!--recycleview-->
+        <RelativeLayout
+            android:id="@+id/recyclerMain"
+            android:layout_below="@+id/header"
+            android:layout_width="match_parent"
+            android:layout_height="700dp">
+
+
+            <RelativeLayout
+
+            android:layout_width="wrap_content"
+            android:layout_height="350dp"
+            android:orientation="horizontal"
+            android:id="@+id/recyclerenter">
+            <View
+                android:layout_margin="10dp"
+                android:layout_height="30dp"
+                android:layout_width="5dp"
+                android:background="#4B7C8C"
+                android:layout_marginLeft="10dp"
+                android:id="@+id/view4" />
+
+            <TextView
+                android:id="@+id/lifeText"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:gravity="center_vertical"
+                android:textSize="20dp"
+                android:textColor="#9eb2bc"
+                android:text="生活起居"
+                android:layout_alignTop="@+id/view4"
+                android:layout_toRightOf="@+id/view4"
+                android:layout_toEndOf="@+id/view4"
+                android:layout_alignBottom="@+id/view4" />
+
+            <android.support.v7.widget.RecyclerView
+                android:layout_below="@+id/lifeText"
+                android:id="@+id/entertainment_recycler"
+                android:overScrollMode="never"
+                android:scrollbars="none"
+                android:layout_width="wrap_content"
+                android:layout_height="300dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_below="@+id/recyclerenter"
+                android:id="@+id/recyclerlife"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+            <View
+                android:layout_height="30dp"
+                android:layout_width="5dp"
+                android:layout_marginLeft="10dp"
+                android:background="#4B7C8C"
+                android:layout_margin="10dp"
+                android:id="@+id/view5" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:gravity="center_vertical"
+                android:textSize="20dp"
+                android:textColor="#9eb2bc"
+                android:text="娱乐出行"
+                android:id="@+id/enterText"
+                android:layout_alignBottom="@+id/view5"
+                android:layout_toRightOf="@+id/view5"
+                android:layout_toEndOf="@+id/view5"
+                android:layout_alignTop="@+id/view5" />
+
+            <android.support.v7.widget.RecyclerView
+                android:id="@+id/life_recycler"
+                android:layout_below="@+id/enterText"
+                android:overScrollMode="never"
+                android:scrollbars="none"
+                android:layout_width="wrap_content"
+                android:layout_height="300dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp" />
+                </RelativeLayout>
+            </RelativeLayout>
+
+        </RelativeLayout>
+
+    </ScrollView>
+</RelativeLayout>

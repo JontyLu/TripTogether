@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/view_list_main_content"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@android:color/white"
+    android:padding="@dimen/activity_vertical_margin"
+    tools:showIn="@layout/list_item_main">
+
+    <ImageView
+        android:id="@+id/mailImage"
+        android:layout_width="70dp"
+        android:layout_height="70dp" />
+    <TextView
+        android:id="@+id/text_list_main_title"
+        android:layout_width="200dp"
+        android:layout_height="20dp"
+        android:text="These classest "
+        android:textSize="16dp"
+        android:gravity="left"
+        android:layout_alignParentTop="true"
+        android:layout_toRightOf="@+id/mailImage"
+        android:layout_toEndOf="@+id/mailImage"
+        android:layout_marginLeft="37dp"
+        android:layout_marginStart="37dp" />
+
+    <TextView
+        android:id="@+id/text_list_main_context"
+        android:layout_width="200dp"
+        android:layout_height="30dp"
+        android:gravity="left"
+        android:textColor="#666"
+        android:layout_alignBottom="@+id/mailImage"
+        android:layout_alignLeft="@+id/text_list_main_title"
+        android:layout_alignStart="@+id/text_list_main_title" />
+
+
+</RelativeLayout>
+

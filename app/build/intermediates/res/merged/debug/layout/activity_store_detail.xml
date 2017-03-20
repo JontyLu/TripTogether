@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#E9E9E9"
+    tools:context="com.example.lenovo.triptogether.StoreDetails.store_detail">
+
+    <RelativeLayout
+        android:background="#4B7C8C"
+        android:id="@+id/detailsHeader"
+        android:layout_width="match_parent"
+        android:layout_height="50dp">
+        <ImageButton
+            android:id="@+id/detailsMessageButton"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:background="@drawable/message"
+            android:layout_centerVertical="true"
+            android:layout_toLeftOf="@+id/detailsShareButton"
+            android:layout_toStartOf="@+id/detailsShareButton"
+            android:layout_marginRight="14dp"
+            android:layout_marginEnd="14dp" />
+        <ImageButton
+            android:id="@+id/detailsBackButton"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:background="@drawable/back_button"
+            style="?android:attr/borderlessButtonStyle"
+            android:layout_alignTop="@+id/detailsShareButton"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginLeft="5dp"
+            android:layout_marginStart="10dp" />
+        <TextView
+            android:id="@+id/detailsTitle"
+            android:layout_width="200dp"
+            android:layout_height="40dp"
+            android:text="长隆欢乐世界"
+            android:textColor="#fff"
+            android:textSize="20dp"
+            android:gravity="left|center"
+            android:layout_centerVertical="true"
+            android:layout_toEndOf="@+id/detailsBackButton"
+            android:layout_toRightOf="@+id/detailsBackButton"
+            android:layout_marginLeft="5dp" />
+        <ImageButton
+            android:id="@+id/detailsShareButton"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:background="@drawable/share_button"
+            style="?android:attr/borderlessButtonStyle"
+            android:layout_centerVertical="true"
+            android:layout_toLeftOf="@+id/detailsStarButton"
+            android:layout_toStartOf="@+id/detailsStarButton"
+            android:layout_marginRight="13dp"
+            android:layout_marginEnd="13dp" />
+        <ImageButton
+            android:id="@+id/detailsStarButton"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:background="@drawable/star_empty_button"
+            style="?android:attr/borderlessButtonStyle"
+            android:layout_alignTop="@+id/detailsShareButton"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginRight="14dp"
+            android:layout_marginEnd="14dp" />
+
+    </RelativeLayout>
+    <ScrollView
+        android:layout_below="@+id/detailsHeader"
+        android:layout_width="match_parent"
+        android:layout_height="800dp">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="800dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:id="@+id/linearLayout2">
+
+                <RelativeLayout
+                    android:id="@+id/R_about_image"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content">
+                    <ImageView
+                        android:id="@+id/store_image"
+                        android:layout_width="wrap_content"
+                        android:layout_height="185dp"
+                        android:src="@drawable/changlong"/>
+
+                </RelativeLayout>
+
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <RelativeLayout
+                        android:id="@+id/R_about_score"
+                        android:layout_width="match_parent"
+                        android:layout_height="50dp"
+                        android:padding="10dp"
+                        android:background="#fff"
+                        android:layout_alignParentTop="true"
+                        android:layout_alignParentLeft="true"
+                        android:layout_alignParentStart="true"
+                        android:layout_marginTop="10dp">
+
+                        <ImageView
+                            android:layout_width="25dp"
+                            android:layout_height="25dp"
+                            android:src="@drawable/smile"
+                            android:layout_centerVertical="true"
+                            android:layout_alignParentLeft="true"
+                            android:layout_alignParentStart="true"
+                            android:id="@+id/imageView" />
+                        <TextView
+                            android:id="@+id/detailsScore"
+                            android:layout_width="140dp"
+                            android:layout_height="30dp"
+                            android:text="未评分"
+                            android:textSize="20dp"
+                            android:gravity="center|left"
+                            android:textColor="#FCAE2F"
+                            android:layout_centerVertical="true"
+                            android:layout_toRightOf="@+id/imageView"
+                            android:layout_toEndOf="@+id/imageView"
+                            android:layout_marginLeft="22dp"
+                            android:layout_marginStart="22dp" />
+                    </RelativeLayout>
+
+
+                </RelativeLayout>
+
+            </LinearLayout>
+
+            <RelativeLayout
+                android:id="@+id/R_about_details"
+                android:layout_width="match_parent"
+                android:layout_height="180dp"
+                android:background="#fff"
+                android:padding="10dp"
+                android:layout_below="@+id/linearLayout2"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_marginTop="10dp">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="30dp"
+                    android:text="商家详情"
+                    android:textSize="20dp"
+                    android:layout_marginTop="10dp"
+                    android:id="@+id/textView2" />
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="#E9E9E9"
+                    android:layout_below="@+id/textView2"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginBottom="15dp"
+                    android:id="@+id/view6" />
+                <ImageView
+                    android:layout_width="25dp"
+                    android:layout_height="25dp"
+                    android:src="@drawable/clock"
+                    android:id="@+id/imageView2"
+                    android:layout_below="@+id/view6"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true" />
+                <TextView
+                    android:id="@+id/open_time"
+                    android:layout_width="300dp"
+                    android:layout_height="30dp"
+                    android:text="常年开放"
+                    android:textSize="20dp"
+                    android:textColor="#666666"
+                    android:gravity="center|left"
+                    android:layout_marginLeft="13dp"
+                    android:layout_marginStart="13dp"
+                    android:layout_alignTop="@+id/imageView2"
+                    android:layout_toRightOf="@+id/imageView2"
+                    android:layout_toEndOf="@+id/imageView2"
+                    android:layout_alignBottom="@+id/imageView2" />
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="#E9E9E9"
+                    android:layout_below="@+id/imageView2"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true"
+                    android:layout_marginTop="15dp"
+                    android:layout_marginBottom="15dp"
+                    android:id="@+id/view7" />
+                <ImageView
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:src="@drawable/phone"
+                    android:layout_below="@+id/view7"
+                    android:layout_toLeftOf="@+id/open_time"
+                    android:layout_toStartOf="@+id/open_time"
+                    android:id="@+id/imageView3" />
+                <Button
+                    android:id="@+id/phone_number"
+                    android:layout_width="300dp"
+                    android:layout_height="30dp"
+                    android:textSize="20dp"
+                    android:text="X-XXXXXXXX"
+                    android:textColor="#666666"
+                    android:background="#fff"
+                    android:gravity="center|left"
+                    android:layout_alignTop="@+id/imageView3"
+                    android:layout_alignLeft="@+id/open_time"
+                    android:layout_alignStart="@+id/open_time"
+                    style="?android:attr/borderlessButtonStyle"/>
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/R_about_activities"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_below="@+id/R_about_details"
+                android:background="#fff"
+                android:padding="10dp"
+                android:layout_marginTop="10dp">
+                <TextView
+                    android:text="其他信息"
+                    android:layout_width="match_parent"
+                    android:layout_height="30dp"
+                    android:textSize="20dp"
+                    android:layout_marginTop="10dp"
+                    android:id="@+id/textView3" />
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="#E9E9E9"
+                    android:layout_below="@+id/textView3"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginBottom="15dp"
+                    android:id="@+id/view9" />
+                <ListView
+                    android:layout_width="match_parent"
+                    android:layout_height="100dp"
+                    android:layout_marginTop="5dp"
+                    android:layout_below="@+id/view9">
+
+                </ListView>
+            </RelativeLayout>
+
+            <com.baidu.mapapi.map.MapView
+                android:id="@+id/bmapView"
+                android:layout_width="match_parent"
+                android:layout_height="280dp"
+                android:clickable="true"
+                android:layout_below="@+id/R_about_activities"/>
+
+        </RelativeLayout>
+    </ScrollView>
+</RelativeLayout>
+
+

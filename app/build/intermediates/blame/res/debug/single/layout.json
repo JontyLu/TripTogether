@@ -1,0 +1,342 @@
+[
+    {
+        "merged": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\res\\merged\\debug\\layout\\material_view_pager_placeholder.xml",
+        "source": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\exploded-aar\\com.github.florent37\\materialviewpager\\1.2.0\\res\\layout\\material_view_pager_placeholder.xml"
+    },
+    {
+        "merged": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_chat_item.xml",
+        "source": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\src\\main\\res\\layout\\fragment_chat_item.xml"
+    },
+    {
+        "merged": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_bottomnavigationbardemo.xml",
+        "source": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\src\\main\\res\\layout\\activity_bottomnavigationbardemo.xml"
+    },
+    {
+        "merged": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_user_item.xml",
+        "source": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\src\\main\\res\\layout\\fragment_user_item.xml"
+    },
+    {
+        "merged": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_mail.xml",
+        "source": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\src\\main\\res\\layout\\fragment_mail.xml"
+    },
+    {
+        "merged": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_main.xml",
+        "source": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\src\\main\\res\\layout\\list_item_main.xml"
+    },
+    {
+        "merged": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\res\\merged\\debug\\layout\\psts_tab.xml",
+        "source": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\exploded-aar\\com.jpardogo.materialtabstrip\\library\\1.1.0\\res\\layout\\psts_tab.xml"
+    },
+    {
+        "merged": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\res\\merged\\debug\\layout\\entertainment_item.xml",
+        "source": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\src\\main\\res\\layout\\entertainment_item.xml"
+    },
+    {
+        "merged": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pop.xml",
+        "source": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\src\\main\\res\\layout\\pop.xml"
+    },
+    {
+        "merged": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\res\\merged\\debug\\layout\\likeview.xml",
+        "source": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\exploded-aar\\com.github.jd-alexander\\LikeButton\\0.1.3\\res\\layout\\likeview.xml"
+    },
+    {
+        "merged": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tools_material_view_pager_pagertitlestrip.xml",
+        "source": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\exploded-aar\\com.github.florent37\\materialviewpager\\1.2.0\\res\\layout\\tools_material_view_pager_pagertitlestrip.xml"
+    },
+    {
+        "merged": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login_layout.xml",
+        "source": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\src\\main\\res\\layout\\login_layout.xml"
+    },
+    {
+        "merged": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bottom_navigation_bar_container.xml",
+        "source": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\exploded-aar\\com.ashokvarma.android\\bottom-navigation-bar\\1.2.0\\res\\layout\\bottom_navigation_bar_container.xml"
+    },
+    {
+        "merged": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\res\\merged\\debug\\layout\\material_view_pager_pagertitlestrip_standard.xml",
+        "source": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\exploded-aar\\com.github.florent37\\materialviewpager\\1.2.0\\res\\layout\\material_view_pager_pagertitlestrip_standard.xml"
+    },
+    {
+        "merged": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\res\\merged\\debug\\layout\\register_layout.xml",
+        "source": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\src\\main\\res\\layout\\register_layout.xml"
+    },
+    {
+        "merged": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_with_single_delete.xml",
+        "source": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\src\\main\\res\\layout\\list_item_with_single_delete.xml"
+    },
+    {
+        "merged": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_store_detail.xml",
+        "source": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\src\\main\\res\\layout\\activity_store_detail.xml"
+    },
+    {
+        "merged": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\res\\merged\\debug\\layout\\material_view_pager_viewpager.xml",
+        "source": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\exploded-aar\\com.github.florent37\\materialviewpager\\1.2.0\\res\\layout\\material_view_pager_viewpager.xml"
+    },
+    {
+        "merged": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tools_list_item_card_big.xml",
+        "source": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\exploded-aar\\com.github.florent37\\materialviewpager\\1.2.0\\res\\layout\\tools_list_item_card_big.xml"
+    },
+    {
+        "merged": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\res\\merged\\debug\\layout\\material_view_pager_imageview_header.xml",
+        "source": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\exploded-aar\\com.github.florent37\\materialviewpager\\1.2.0\\res\\layout\\material_view_pager_imageview_header.xml"
+    },
+    {
+        "merged": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\res\\merged\\debug\\layout\\life_item.xml",
+        "source": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\src\\main\\res\\layout\\life_item.xml"
+    },
+    {
+        "merged": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tools_list_item_card_small.xml",
+        "source": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\exploded-aar\\com.github.florent37\\materialviewpager\\1.2.0\\res\\layout\\tools_list_item_card_small.xml"
+    },
+    {
+        "merged": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fixed_bottom_navigation_item.xml",
+        "source": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\exploded-aar\\com.ashokvarma.android\\bottom-navigation-bar\\1.2.0\\res\\layout\\fixed_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\res\\merged\\debug\\layout\\material_view_pager_pagertitlestrip_newstand.xml",
+        "source": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\exploded-aar\\com.github.florent37\\materialviewpager\\1.2.0\\res\\layout\\material_view_pager_pagertitlestrip_newstand.xml"
+    },
+    {
+        "merged": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_home.xml",
+        "source": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tools_list_items.xml",
+        "source": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\exploded-aar\\com.github.florent37\\materialviewpager\\1.2.0\\res\\layout\\tools_list_items.xml"
+    },
+    {
+        "merged": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\res\\merged\\debug\\layout\\appstart.xml",
+        "source": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\src\\main\\res\\layout\\appstart.xml"
+    },
+    {
+        "merged": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\res\\merged\\debug\\layout\\material_view_pager_layout.xml",
+        "source": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\exploded-aar\\com.github.florent37\\materialviewpager\\1.2.0\\res\\layout\\material_view_pager_layout.xml"
+    },
+    {
+        "merged": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\res\\merged\\debug\\layout\\shifting_bottom_navigation_item.xml",
+        "source": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\exploded-aar\\com.ashokvarma.android\\bottom-navigation-bar\\1.2.0\\res\\layout\\shifting_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\res\\merged\\debug\\layout\\material_view_pager_moving_header.xml",
+        "source": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\exploded-aar\\com.github.florent37\\materialviewpager\\1.2.0\\res\\layout\\material_view_pager_moving_header.xml"
+    },
+    {
+        "merged": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_user.xml",
+        "source": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\src\\main\\res\\layout\\fragment_user.xml"
+    },
+    {
+        "merged": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_chatting_layout.xml",
+        "source": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\src\\main\\res\\layout\\fragment_chatting_layout.xml"
+    },
+    {
+        "merged": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bmob_update_dialog.xml",
+        "source": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\exploded-aar\\cn.bmob.android\\bmob-sdk\\3.5.0\\res\\layout\\bmob_update_dialog.xml"
+    },
+    {
+        "merged": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_chat.xml",
+        "source": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\src\\main\\res\\layout\\fragment_chat.xml"
+    },
+    {
+        "merged": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_list_main_content.xml",
+        "source": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\src\\main\\res\\layout\\view_list_main_content.xml"
+    },
+    {
+        "merged": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "F:\\Software\\AndroidStudio\\project\\TripTogether\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_select_dialog_material.xml"
+    }
+]
